@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🎓Student engineer in computer science at ENSEEIHT<br>🧑‍🚀I enjoy trying new things<br>I am a web development enthusiast<br>🖥️Most of my work on [git.inpt.fr](https://git.inpt.fr)
+🎓Student engineer in computer science at ENSEEIHT<br>🧑‍🚀I enjoy trying new things<br>I am a web development enthusiast<br>🖥️Most of my work on [git.inpt.fr](https://git.inpt.fr/litschan)
 
 ## 🌐 Socials:
 
